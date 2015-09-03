@@ -1,0 +1,11 @@
+Classes
+  - Card
+  - Deck
+  - Hand
+  - Player
+  - Game
+
+Star with 5-card draw
+
+Player bet
+- each player may fold
